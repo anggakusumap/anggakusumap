@@ -1,9 +1,8 @@
 ### Hi! 👋 I'm Angga Kusuma.
 
-An independent Software Engineer who loves to create and share projects about web technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An independent Web Developer who loves to create and share projects about web technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-- 🔭 I’m currently working on <a href="https://ezv.app">EZV APP Bali</a>
-- 💬 Feel free to ask me about web development or JavaScript
+- 💬 Feel free to ask me about web development
 - 📫 How to reach me: gedeanggakp@gmail.com
 
 ### Tech Stack
